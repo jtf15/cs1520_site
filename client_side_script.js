@@ -7,7 +7,9 @@ var items = [
 ];
 /*
 
-When I was working on projects going over the 
+When I was working on projects going over the examples, it was annoying when I would go back and it would 
+close all the tabs and I had to open and scroll down again. Just added trackers to keep them open in local storage.
+Also messed around with colors.
 
 */
 function toggleItem(itemName)
