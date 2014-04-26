@@ -1,9 +1,10 @@
 body {
-  background-color:	#ffffff
+  background-color:	#FFD700
 }
 
 h1,h2,h3 {
   text-align: 		center;
+  color: 			#FFD700;
 }
 
 td {
@@ -16,28 +17,33 @@ div#content {
 }
 
 div.divider {
-  background-color: #bbbbbb;
+  background-color: #FFD700;
+  color: 			#FFD700;
   width:            75%;
   margin:           auto;
   padding:          0.1em;
 }
 
 div#basics {
-  background-color: #bbbbbb;
+  background-color: #000066;
+  color:            #FFD700;
   padding:          0.5em;
 }
 
 div.itemtitle {
-  background-color: #bbbbbb;
+  background-color: #000066;
+  color:            #FFD700;
   padding:          0.5em;
 }
 
 div.itembody {
-  background-color: #dddddd;
+  background-color: #000066;
+  color:            #FFD700;
   font-size:        smaller;
   padding:          0.5em;
 }
 
 div.itembody table {
   width:            100%;
+  background-colo   #000066;
 }
